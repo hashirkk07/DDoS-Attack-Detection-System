@@ -2,7 +2,7 @@
 
 Note: python scripts are written in python3. Hence we recommend the use of python3, and pip3 for installing the additional libraries.
 ________________________________
-### What's in the zip package?
+### What's in the repo?
 
 ddosdetect.py ( python script to test for malicious traffic in the input pcap file )
 model.sav ( the trained model )
